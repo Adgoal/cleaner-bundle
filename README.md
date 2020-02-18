@@ -1,9 +1,9 @@
 # Lamoda cleaner bundle
 
-[![Build Status](https://travis-ci.org/lamoda/cleaner-bundle.svg?branch=master)](https://travis-ci.org/lamoda/cleaner-bundle)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lamoda/cleaner-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lamoda/cleaner-bundle/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/lamoda/cleaner-bundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/lamoda/cleaner-bundle/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/lamoda/cleaner-bundle/badges/build.png?b=master)](https://scrutinizer-ci.com/g/lamoda/cleaner-bundle/build-status/master)
+[![Build Status](https://travis-ci.org/adgoal/cleaner-bundle.svg?branch=master)](https://travis-ci.org/adgoal/cleaner-bundle)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/adgoal/cleaner-bundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/adgoal/cleaner-bundle/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/adgoal/cleaner-bundle/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/adgoal/cleaner-bundle/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/adgoal/cleaner-bundle/badges/build.png?b=master)](https://scrutinizer-ci.com/g/adgoal/cleaner-bundle/build-status/master)
 
 Symfony Bundle for lamoda/cleaner library.
 
@@ -12,7 +12,7 @@ Symfony Bundle for lamoda/cleaner library.
 
 1. Install the Bundle with composer:
 ```console
-$ composer require lamoda/cleaner-bundle
+$ composer require adgoal/cleaner-bundle
 ```
 
 2. Enable the Bundle:
