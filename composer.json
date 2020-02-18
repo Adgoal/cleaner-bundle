@@ -1,6 +1,6 @@
 {
-    "name": "lamoda/cleaner-bundle",
-    "description": "Symfony bundle for lamoda/cleaner library",
+    "name": "adgoal/cleaner-bundle",
+    "description": "Symfony bundle for adgoal/cleaner library",
     "type": "symfony-bundle",
     "authors": [
         {
