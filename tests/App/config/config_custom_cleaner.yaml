@@ -7,7 +7,7 @@ services:
 
     custom_cleaner_config:
         class: Lamoda\Cleaner\DB\Config\DBCleanerConfig
-        factory: 'Lamoda\Cleaner\DB\Config\DBCleanerConfigFactory:create'
+        factory: 'Lamoda\Cleaner\DB\Config\DBCleanerConfigFactory::create'
         arguments:
             - query: SELECT 'custom'
 

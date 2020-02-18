@@ -7,9 +7,9 @@ namespace Lamoda\CleanerBundleTests\Command;
 use Lamoda\CleanerBundle\Command\ClearCommand;
 use Monolog\Handler\TestHandler;
 use Monolog\Logger;
+use RuntimeException;
 use Symfony\Bundle\FrameworkBundle\Console\Application;
 use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
-use Symfony\Component\Console\Exception\RuntimeException;
 use Symfony\Component\Console\Tester\CommandTester;
 
 class ClearCommandTest extends KernelTestCase

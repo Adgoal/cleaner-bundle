@@ -42,5 +42,7 @@ class ClearCommand extends Command
 
         $cleaner = $this->container->get($serviceName);
         $cleaner->clear();
+
+        return 0;
     }
 }
